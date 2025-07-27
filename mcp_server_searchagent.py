@@ -4,9 +4,9 @@ from typing import List, Dict
 import json
 
 # Configuration
-GOOGLE_API_KEY = "AIzaSyDYPRZRkn5Dgmez17Krqket5a8IOY1OLkE"  # Replace with your Google Custom Search API key
-SEARCH_ENGINE_ID = "a56d28eb5509e451c"  # Replace with your Google Custom Search Engine ID
-GEMINI_API_KEY = "AIzaSyDPCjJaJQUwjtFbTOCM_Yxali_hl5a4IR8"  # Replace with your Gemini API key
+GOOGLE_API_KEY = ""  # Replace with your Google Custom Search API key
+SEARCH_ENGINE_ID = ""  # Replace with your Google Custom Search Engine ID
+GEMINI_API_KEY = ""  # Replace with your Gemini API key
 
 # Configure Gemini API
 genai.configure(api_key=GEMINI_API_KEY)
