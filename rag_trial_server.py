@@ -11,7 +11,6 @@
 
 # import io
 # import os
-# os.environ['GOOGLE_APPLICATION_CREDENTIALS']="/Users/bhawna/Desktop/agentic_ai_day/agenticai/agenticaigcp-b6166246b712.json"
 
 # # CONFIG
 # BUCKET_NAME = "test-bucket-bhawna-unique-123456"
@@ -84,7 +83,7 @@
 # import os
 # from langchain_google_genai import ChatGoogleGenerativeAI
 
-# os.environ["GOOGLE_API_KEY"] = "AIzaSyDR9vP67BZLiMKlr8eRogOW5KfkC-UmTjw"
+# os.environ["GOOGLE_API_KEY"] = "-UmTjw"
 
 # model=ChatGoogleGenerativeAI(model='gemini-1.5.pro')
 # result=model.invoke('what is chatgpt?')
