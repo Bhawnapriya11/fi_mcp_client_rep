@@ -2,7 +2,7 @@ from pinecone import Pinecone, ServerlessSpec
 
 
 # Initialize Pinecone (you need to get your API key from the Pinecone dashboard)
-api_key="pcsk_5PLDG3_MnPHCzvLCvu15zEYbqodt2HWSQqJuUpv1p429U3V6sdK7PeaLH7Ha5nLjTv9ZQF"
+api_key=""
 
 pc= Pinecone(api_key=api_key)
 # Create a new index (or use an existing one)
